@@ -1,7 +1,5 @@
 const mongoose = require('mongoose')
 
-//const uri = "mongodb+srv://aashir:aashir@cluster0.xv3jd.mongodb.net/Kafka-Practice?retryWrites=true&w=majority";
-
 // mongoose.connect(uri, {
 //     useNewUrlParser: true,
 //     useCreateIndex: true,
