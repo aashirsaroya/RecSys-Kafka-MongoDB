@@ -19,7 +19,7 @@ To run this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/RecSys-Kafka-MongoDB
+    git clone https://github.com/aashirsaroya/RecSys-Kafka-MongoDB
     ```
 2. Install dependencies:
     ```bash
